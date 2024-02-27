@@ -1,0 +1,26 @@
+■ 7 分で分かる Power Automateの基礎
+https://www.youtube.com/watch?v=826Wiziw2Ts
+
+■ Power Automate Desktop でできること７選
+https://www.youtube.com/watch?v=NXh5zcFnNs8
+
+
+■ Excel⇒Excelへの転記
+https://www.youtube.com/watch?v=YTCSQ03NcPA
+
+
+■ 簡単な使い方
+https://www.youtube.com/watch?v=2JJ3Jj8bSPc
+https://www.youtube.com/watch?v=7EHQLJPXRjk&list=PLlRXQmrh8HB8h-iFuycfF7ZJ8yWtdD9HQ
+
+■ 操作を記憶させる方法でコードを生成させる方法
+https://www.youtube.com/watch?v=tU64esQ4PA4&list=TLPQMTgwMjIwMjRxkE6D6VFRpw&index=4
+
+
+■ PDFから値を自動取得
+https://www.youtube.com/watch?v=DsPULbxiD7w&list=TLPQMTgwMjIwMjRxkE6D6VFRpw&index=3
+
+
+■ OCRでPDFからデータを抽出
+https://www.youtube.com/watch?v=JWth3sW1QBE&list=TLPQMTgwMjIwMjRxkE6D6VFRpw&index=6
+
